@@ -1,0 +1,10 @@
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+*.log
+credentials.json
+secrets/
